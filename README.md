@@ -1,2 +1,2 @@
-# my-first-repo
+Курс по веб программированию
 README.md
